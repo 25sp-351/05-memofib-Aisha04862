@@ -1,6 +1,5 @@
 #include <stdio.h>
-//my changes to fibbonacci
-
+//FIB CHANGES
 /*
 * The reason was that factorial() is RECURSIVE, so it called itself.
 * Those calls were not cached!
